@@ -1,2 +1,4 @@
 jenkin
 git
+maven
+tools
